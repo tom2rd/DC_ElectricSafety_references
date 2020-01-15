@@ -50,6 +50,45 @@ https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E9%9B
 - 電気用品安全法 法令業務実施ガイド（第２版）～ 製造・輸入事業者向け ～
 https://www.meti.go.jp/policy/consumer/seian/denan/tetsuduki_annai/guide/denan_guide_140114.pdf
 
+[1] 電気用品安全法令・解釈・規定等, 経済産業省,
+http://www.meti.go.jp/policy/consumer/seian/denan/act.html
+以下のものを含めて、電気用品安全法とそれに関連する政令、省令、通達、告示などが掲載されている:
+[1.1] 電気用品安全法
+[1.2] 電気用品安全法施行令
+[1.3] 電気用品安全法施行規則
+[1.4] 電気用品の技術上の基準を定める省令
+[1.5] 電気用品の技術上の基準を定める省令の解釈について
+[1.6] 電気用品の範囲等の解釈について
+[2] 電気用品安全法 — FAQ, 経済産業省,
+http://www.meti.go.jp/policy/consumer/seian/denan/faq.html
+[2.1] 対象・非対象の解釈事例
+[2.2] 電気用品安全法に関する質問について
+[3] 電気用品安全法 — リチウムイオン蓄電池の規制対象化に関する FAQ, 経済産業省,
+https://www.meti.go.jp/policy/consumer/seian/denan/lithium faq.html
+[4] 電気用品（電源コードセット及び部品）の取り扱いについて, 経済産業省,
+http://www.meti.go.jp/policy/consumer/seian/denan/act.html#notice
+[5] 電気用品安全法 — 製造・輸入事業者ガイド (法令業務実施手引書), 経済産業省,
+https://www.meti.go.jp/policy/consumer/seian/denan/pse guide.html
+[6] 長期使用製品安全表示制度, 経済産業省,
+http://www.meti.go.jp/policy/consumer/seian/denan/long term.html
+[7] 長期使用製品安全点検制度, 経済産業省,
+http://www.meti.go.jp/product safety/producer/shouan/07 tyouki.html
+[8] 電気事業法,
+http://elaws.e-gov.go.jp/search/elawsSearch/elaws search/lsg0500/detail?lawId=339AC0000000170
+[8] 家庭用品品質表示法, 消費者庁,
+http://www.caa.go.jp/policies/policy/representation/household goods/
+[10] 電気機械器具品質表示規程, 消費者庁,
+http://www.caa.go.jp/policies/policy/representation/household goods/law/law 06.html
+[11] 省エネ法の概要について, 経済産業省 資源エネルギー庁,
+http://www.enecho.meti.go.jp/category/saving and new/saving/summary/
+[12] 事故情報特記ニュース No. 72「リモコン付き電気ストーブ」の誤作動について (注意喚起), 独
+立行政法人 製品評価技術基盤機構, 2006 年 11 月15 日,
+http://www.meti.go.jp/committee/summary/0001800/pdf/005 s02 02.pdf
+[13] 電気供給約款, 東京電力株式会社, 平成 27 年12 月 1 日 届出,
+http://www.tepco.co.jp/ep/company2/agreement03.html
+[14] IEC 60601-1-2:2014 (ed. 4) の概要, 株式会社e・オータマ, 佐藤, 2017–2019,
+http://www.emc-ohtama.jp/emc/reference.html
+
 ## 需要家設備の配線など
 - 配線と接地のガイドライン
 https://literature.rockwellautomation.com/idc/groups/literature/documents/in/1770-in041_-ja-p.pdf
