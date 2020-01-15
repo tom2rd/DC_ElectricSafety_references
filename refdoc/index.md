@@ -57,6 +57,8 @@ https://literature.rockwellautomation.com/idc/groups/literature/documents/in/177
 ## 国際規格など
 - 安全規格類
 http://jp.idec.com/ja/solution/msafety/law/index.html
+https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A8%E5%9B%BD%E9%9A%9B%E8%A6%8F%E6%A0%BC100524-1_0005.pdf
+https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/JIS%E7%B3%BBbeppyoudai12.pdf
 
 - グループ安全規格　IEC60204-1
 http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
