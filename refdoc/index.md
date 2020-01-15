@@ -1,5 +1,6 @@
 # Index of Refdocs
 
+## 太陽光発電設備の参考資料
 - 太陽光発電の直流電気安全のための手引きと技術情報(第1 版)
   独立行政法人 産業技術総合研究所 太陽光発電研究センター システムチーム
   2015 年3 月31 日 
@@ -28,6 +29,8 @@ https://www.juniper.net/documentation/ja/release-independent/junos/topics/refere
   中央技術研究所　システム研究所　システム実証グループ 石井 隆文
 https://www.noe.jxtg-group.co.jp/company/rd/technical_review/pdf/vol57_no01_06.pdf
 
+- 直流配電システムの開閉保護技術
+https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E7%9B%B4%E6%B5%81%E9%85%8D%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E9%96%8B%E9%96%89%E4%BF%9D%E8%AD%B7%E6%8A%80%E8%A1%93FEJ-85-02-154-2012.pdf
 
 ## 火災安全
 - 国際的な太陽光発電システムの火災安全に関する取組みと安全性技術
@@ -50,3 +53,12 @@ https://www.meti.go.jp/policy/consumer/seian/denan/tetsuduki_annai/guide/denan_g
 ## 需要家設備の配線など
 - 配線と接地のガイドライン
 https://literature.rockwellautomation.com/idc/groups/literature/documents/in/1770-in041_-ja-p.pdf
+
+## 国際規格など
+- 安全規格類
+http://jp.idec.com/ja/solution/msafety/law/index.html
+
+- グループ安全規格　IEC60204-1
+http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
+
+
