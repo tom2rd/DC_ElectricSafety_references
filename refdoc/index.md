@@ -18,6 +18,9 @@ https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E7%9B
 - 電気安全の手引き（高エネルギー設備）
 https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A8%E3%81%AE%E6%89%8B%E5%BC%95%E3%81%8Ddenki-tebiki.pdf
 
+- 電気通信施設設計要領 （電気編）国土交通省
+https://www.mlit.go.jp/tec/it/denki/gijyutukijyun/H2903densekkei_denki.pdf
+
 - 400V アウトレットPDU　ホワイトペーパー（富士通）
 https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/400V%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88PDUwhitepaper-pdu.pdf
 
