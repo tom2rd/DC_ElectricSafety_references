@@ -109,4 +109,13 @@ https://literature.rockwellautomation.com/idc/groups/literature/documents/in/177
 - グループ安全規格　IEC60204-1
 http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
 
+## IEC TC64 LVDC
+-- Technical Report "LVDC: electricity for the 21st century"
+   https://www.iec.ch/technologyreport/pdf/IEC_TR-LVDC.pdf
+   
+-- IECにおけるエネルギーインフラ関連の標準化動向
+   https://www.ntt.co.jp/journal/1408/files/jn201408057.pdf
+   
+-- Overview of IEC standards activities on LVDC for electricity access
+   http://site.ieee.org/pes-sesdc/files/2018/08/5_SESDC-Panel_Graeme-Burt.pdf
 
