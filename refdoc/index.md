@@ -110,7 +110,11 @@ https://literature.rockwellautomation.com/idc/groups/literature/documents/in/177
 http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
 
 * IEC TS 63053:2017 General requirements for residual current operated protective devices for DC system https://webstore.iec.ch/publication/27795
+
+
 * IEC 60898-3:2019 Electrical accessories - Circuit-breakers for overcurrent protection for household and similar installations - Part 3: Circuit-breakers for DC operation https://webstore.iec.ch/publication/27206
+
+* LVDC standardization and use cases in the Netherlands https://www.nedo.go.jp/content/100893405.pdf
 
 
 ## IEC TC64 LVDC
@@ -119,6 +123,9 @@ http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
    
 * IECにおけるエネルギーインフラ関連の標準化動向
    https://www.ntt.co.jp/journal/1408/files/jn201408057.pdf
+   
+* DIRECT CURRENT STANDARDISATION OVERVIEW <EU 2017>
+   https://ec.europa.eu/energy/sites/ener/files/documents/direct_current_standardization.pdf
    
 * Overview of IEC standards activities on LVDC for electricity access <2018 IEEE-PES>
    http://site.ieee.org/pes-sesdc/files/2018/08/5_SESDC-Panel_Graeme-Burt.pdf
@@ -133,4 +140,11 @@ inverters & and recommendations for solar PV in rural decentralised electrificat
 * IEC TC 64: Protection against electric shocks
 * IEC TC 23: Electrical accessories: AC&DC operation
 * IEC TC 32: Fuses
+
+# 海外メーカの動向
+## Shnider
+* Standardisation in DC installations, what is done in The Netherlands? 
+Presented by: Joost de Koning
+Member standardisation committee NEC TC64 and workgroup DC installations
+https://dc-foundation-netherlands.org/wp-content/uploads/2019/05/3.5-GG-DC-congres-15-6-2018-presentatie-Joost-de-Koning-V1.pdf
 
