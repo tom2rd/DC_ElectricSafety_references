@@ -142,7 +142,7 @@ inverters & and recommendations for solar PV in rural decentralised electrificat
 * IEC TC 32: Fuses
 
 # 海外メーカの動向
-## Shnider
+## Shnieder
 * Standardisation in DC installations, what is done in The Netherlands? 
 Presented by: Joost de Koning
 Member standardisation committee NEC TC64 and workgroup DC installations
