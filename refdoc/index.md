@@ -118,4 +118,15 @@ http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
    
 -- Overview of IEC standards activities on LVDC for electricity access
    http://site.ieee.org/pes-sesdc/files/2018/08/5_SESDC-Panel_Graeme-Burt.pdf
+   
+### Overview of IEC work relevant to LVDC
+Existing IEC TCs effort relevant to DC
+–- IEC TC 82: Solar PV energy systems (develop standards and publications for PV systems including power converters and
+inverters & and recommendations for solar PV in rural decentralised electrification (IEC 62257 series))
+–- IEC TC 20: Electric cables, prepare standards for the design,testing for power cables and their accessories
+–- IEC TC 22: Power electronic systems and equipment, including DC converters
+–- IEC TC 8: Systems aspects for electrical energy supply
+–- IEC TC 64: Protection against electric shocks
+–- IEC TC 23: Electrical accessories: AC&DC operation
+–- IEC TC 32: Fuses
 
