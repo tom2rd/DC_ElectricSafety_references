@@ -110,23 +110,23 @@ https://literature.rockwellautomation.com/idc/groups/literature/documents/in/177
 http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
 
 ## IEC TC64 LVDC
--- Technical Report "LVDC: electricity for the 21st century"
+* Technical Report "LVDC: electricity for the 21st century"
    https://www.iec.ch/technologyreport/pdf/IEC_TR-LVDC.pdf
    
--- IECにおけるエネルギーインフラ関連の標準化動向
+* IECにおけるエネルギーインフラ関連の標準化動向
    https://www.ntt.co.jp/journal/1408/files/jn201408057.pdf
    
--- Overview of IEC standards activities on LVDC for electricity access
+* Overview of IEC standards activities on LVDC for electricity access
    http://site.ieee.org/pes-sesdc/files/2018/08/5_SESDC-Panel_Graeme-Burt.pdf
    
 ### Overview of IEC work relevant to LVDC
 Existing IEC TCs effort relevant to DC
-–- IEC TC 82: Solar PV energy systems (develop standards and publications for PV systems including power converters and
+* IEC TC 82: Solar PV energy systems (develop standards and publications for PV systems including power converters and
 inverters & and recommendations for solar PV in rural decentralised electrification (IEC 62257 series))
-–- IEC TC 20: Electric cables, prepare standards for the design,testing for power cables and their accessories
-–- IEC TC 22: Power electronic systems and equipment, including DC converters
-–- IEC TC 8: Systems aspects for electrical energy supply
-–- IEC TC 64: Protection against electric shocks
-–- IEC TC 23: Electrical accessories: AC&DC operation
-–- IEC TC 32: Fuses
+* IEC TC 20: Electric cables, prepare standards for the design,testing for power cables and their accessories
+* IEC TC 22: Power electronic systems and equipment, including DC converters
+* IEC TC 8: Systems aspects for electrical energy supply
+* IEC TC 64: Protection against electric shocks
+* IEC TC 23: Electrical accessories: AC&DC operation
+* IEC TC 32: Fuses
 
