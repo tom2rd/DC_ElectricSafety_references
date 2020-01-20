@@ -104,6 +104,10 @@ http://www.emc-ohtama.jp/emc/reference.html
 
 https://literature.rockwellautomation.com/idc/groups/literature/documents/in/1770-in041_-ja-p.pdf
 
+* 直流給電アライアンス
+
+http://ggpah.org/
+
 ## 国際規格など
 * 安全規格類
 
