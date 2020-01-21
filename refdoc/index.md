@@ -11,6 +11,65 @@ https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/Techni
   2019 年4 月
 https://unit.aist.go.jp/rcpv/ci/service/PV_Electrical_Safety/Technical_Information_on_PV_Electrical_Safety2(AIST2019).pdf
 
+## EVの参考資料
+- 感電安全を考慮したワイヤハーネス設計の紹介 
+https://www.mazda.com/contentassets/9f20b44883774edfbbc3810b2e586dec/files/2012_no028.pdf
+
+- コンバージョン EV のガイドライン
+電気自動車普及協議会
+http://wwwtb.mlit.go.jp/hokushin/hrt54/car/pdf/EV_guideline_2.pdf
+
+- EU における EV 充電規格標準化の現状と国際規格基準作成に対するスタンス
+https://www.jetro.go.jp/ext_images/jfile/report/07000708/ev_charger_in_standard_eu.pdf
+
+- 電気自動車等の感電防止に関する安全性について、基準を改正します。平成23年6月23日
+https://www.mlit.go.jp/report/press/jidosha07_hh_000092.html
+
+- 電気自動車・プラグインハイブリッド自動車のための充電設備設置にあたってのガイドブック  
+2017 年 6 月
+経済産業省
+国土交通省
+https://www.meti.go.jp/policy/automobile/evphv/material/pdf/guidebook.pdf
+
+- 全出力 50kW を超える急速充電設備の火災予防対策に関する調査研究 報告書 (東京消防庁）
+https://www.tfd.metro.tokyo.lg.jp/hp-yobouka/ee/repo.pdf
+
+- 全出力50kWを超える電気自動車用急速充電設備の安全対策に関する検討部会
+https://www.fdma.go.jp/singi_kento/kento/post-46.html
+- 資料6-2　全出力50kWを超える蓄電池内蔵型急速充電設備の蓄電地システムに関するハザード評価表
+https://www.fdma.go.jp/singi_kento/kento/items/post-46/02/shiryou6-2.pdf
+
+- CHAdeMO協議会
+https://www.chademo.com/ja/
+
+- 電気自動車用急速充電器の設置・運用に関する手引書  (CHAdeMO協議会)
+https://www.pref.aomori.lg.jp/soshiki/energy/enerugi/files/1012_tebiki_CHAdeMO.pdf
+http://www.chademo.com/wp/pdf/QCtebikiRev32.pdf
+
+- 急速充電設備の仕様、構造及び設置について 急速充電設備の仕様、構造及び設置について2010年12月17日CHAdeMO CHAdeMO協議会
+https://www.fdma.go.jp/singi_kento/kento/items/kento243_05_dai1_siryou3.pdf
+
+- 急速充電設備の概要について(CHAdeMO協議会)
+https://www.fdma.go.jp/singi_kento/kento/items/post-46/01/shiryou3.pdf
+
+- 急速充電器の雷害対策提案
+http://www.chademo.com/wp2016/wp-content/japan-uploads/seibi7kaminarigaitaisaku.pdf
+
+- 供給・充電装置の接地抵抗について(P4)
+http://www.chademo.com/wp2016/wp-content/japan-uploads/jimurenraku21.pdf
+
+- 急速充電器の接地工事に関する要件緩和
+http://www.chademo.com/wp2016/wp-content/japan-uploads/infra22/chademo0718.pdf
+
+- EV急速充電器用 直流地絡検出器 直流地絡検出器 (CHAdeMO協議会 :中性点接地）
+http://www.chademo.com/wp2016/wp-content/japan-uploads/seibi10seikoc&e.pdf
+https://www.seiko-denki.co.jp/wp/wp-content/uploads/2018/08/SEIKO_SDL0A-1A-E-type_dcfaultdetector_chademo_ed.2.pdf
+
+
+- 既存の分譲マンションへの電気自動車充電設備導入マニュアル（急速充電器特別措置改正版）
+http://www.mks-as.net/files/topics/779_ext_08_0.pdf
+
+
 ## 需要家側設備
 - 直流化に伴う次世代住宅の電気安全
 https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E7%9B%B4%E6%B5%81%E5%8C%96%E3%81%AB%E4%BC%B4%E3%81%86%E6%AC%A1%E4%B8%96%E4%BB%A3%E4%BD%8F%E5%AE%85%E3%81%AE%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A831_210.pdf
@@ -108,6 +167,7 @@ http://www.emc-ohtama.jp/emc/reference.html
 ## 需要家設備の配線など
 * 内線規定（Wiki）
 
+https://ja.wikipedia.org/wiki/%E5%86%85%E7%B7%9A%E8%A6%8F%E7%A8%8B
 
 
 * 配線と接地のガイドライン
