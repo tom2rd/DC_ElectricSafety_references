@@ -139,6 +139,14 @@ https://www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2018/09
 - 電気設備の技術基準の解釈の解説  
 https://www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2018/09/300928-5.pdf
 
+-日本電気協会　電気技術規定・電気技術指針  
+https://store.denki.or.jp/user_data/jea/cgl
+  - JEAC7001-2017 配電規程（低圧及び高圧）
+  - JEAC8001-2016 内線規程
+  - JEAG8101-1971 低圧電路地絡保護指針
+  - JEAC8701-1968 低圧電路に使用する自動しゃ断器の必要なしゃ断容量
+  - JEAC9701-2019 系統連系規程  
+  - JEAG9702-2018 高調波抑制対策技術指針
 
 ## 用品基準
 - 電気用品安全法 法令業務実施ガイド（第２版）～ 製造・輸入事業者向け ～  
