@@ -6,10 +6,10 @@
   2015 年3 月31 日 
 https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/Technical_Information_on_PV_Electrical_Safety(AIST2015)v2.pdf
 
-- 太陽光発電の直流電気安全のための手引きと技術情報（第2 版）
+- 太陽光発電の直流電気安全のための手引きと技術情報（第2 版）  
   国立研究開発法人 産業技術総合研究所
-  2019 年4 月
-https://unit.aist.go.jp/rcpv/ci/service/PV_Electrical_Safety/Technical_Information_on_PV_Electrical_Safety2(AIST2019).pdf
+  2019 年4 月  
+  https://unit.aist.go.jp/rcpv/ci/service/PV_Electrical_Safety/Technical_Information_on_PV_Electrical_Safety2(AIST2019).pdf
 
 ## EVの参考資料
 - 感電安全を考慮したワイヤハーネス設計の紹介 
