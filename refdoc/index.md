@@ -40,26 +40,26 @@ https://www.fdma.go.jp/singi_kento/kento/items/post-46/02/shiryou6-2.pdf
 - CHAdeMO協議会
 https://www.chademo.com/ja/
 
- - 電気自動車用急速充電器の設置・運用に関する手引書  (CHAdeMO協議会)
+   - 電気自動車用急速充電器の設置・運用に関する手引書  (CHAdeMO協議会)
   https://www.pref.aomori.lg.jp/soshiki/energy/enerugi/files/1012_tebiki_CHAdeMO.pdf
   http://www.chademo.com/wp/pdf/QCtebikiRev32.pdf
 
-  - 急速充電設備の仕様、構造及び設置について 急速充電設備の仕様、構造及び設置について2010年12月17日CHAdeMO CHAdeMO協議会
+    - 急速充電設備の仕様、構造及び設置について 急速充電設備の仕様、構造及び設置について2010年12月17日CHAdeMO CHAdeMO協議会
   https://www.fdma.go.jp/singi_kento/kento/items/kento243_05_dai1_siryou3.pdf
 
-  - 急速充電設備の概要について(CHAdeMO協議会)
+    - 急速充電設備の概要について(CHAdeMO協議会)
   https://www.fdma.go.jp/singi_kento/kento/items/post-46/01/shiryou3.pdf
 
-  - 急速充電器の雷害対策提案
+    - 急速充電器の雷害対策提案
   http://www.chademo.com/wp2016/wp-content/japan-uploads/seibi7kaminarigaitaisaku.pdf
 
-  - 供給・充電装置の接地抵抗について(P4)
+    - 供給・充電装置の接地抵抗について(P4)
   http://www.chademo.com/wp2016/wp-content/japan-uploads/jimurenraku21.pdf
 
-  - 急速充電器の接地工事に関する要件緩和
+    - 急速充電器の接地工事に関する要件緩和
   http://www.chademo.com/wp2016/wp-content/japan-uploads/infra22/chademo0718.pdf
 
-  - EV急速充電器用 直流地絡検出器 直流地絡検出器 (CHAdeMO協議会 :中性点接地）
+    - EV急速充電器用 直流地絡検出器 直流地絡検出器 (CHAdeMO協議会 :中性点接地）
   http://www.chademo.com/wp2016/wp-content/japan-uploads/seibi10seikoc&e.pdf  
   https://www.seiko-denki.co.jp/wp/wp-content/uploads/2018/08/SEIKO_SDL0A-1A-E-type_dcfaultdetector_chademo_ed.2.pdf  
 
@@ -92,17 +92,17 @@ https://www.giho.mitsubishielectric.co.jp/giho/pdf/2017/1709107.pdf
 （グリーンＩＴプロジェクト）／エネルギー利用最適化データセンタ基盤技術の研究開発／データセンタの電源システムと最適直流化技術の開発」  
  平成 25 年 2 月 NEDO  
 
- - 3. 直流を利用する上での信頼性・安全性確保に必要な要素技術の研究..........................148 
+   - 3. 直流を利用する上での信頼性・安全性確保に必要な要素技術の研究..........................148 
 
 - 平成27 年度～平成28 年度成果報告書
   国際エネルギー消費効率化等技術・システム実証事業／  
  ／米国におけるデータセンターに関するHVDC（高電圧直流）給電システム等実証事業  
 
- - ３．２．５ 安全、保護 ...................................................................................................... 54
- - ３．２．６ 品質 ................................................................................................................ 56
- - ３．３．５ 安全性、安全対策 ........................................................................................... 59
- - ３．５．３ 保護協調 ......................................................................................................... 88
- - ３．５．４ 接地 ................................................................................................................ 88
+   - ３．２．５ 安全、保護 ...................................................................................................... 54
+   - ３．２．６ 品質 ................................................................................................................ 56
+   - ３．３．５ 安全性、安全対策 ........................................................................................... 59
+   - ３．５．３ 保護協調 ......................................................................................................... 88
+   - ３．５．４ 接地 ................................................................................................................ 88
 
 
 ## 短絡・故障モード等
@@ -187,7 +187,6 @@ http://www.emc-ohtama.jp/emc/reference.html
 * 内線規定（Wiki）  
 https://ja.wikipedia.org/wiki/%E5%86%85%E7%B7%9A%E8%A6%8F%E7%A8%8B
 
-
 * 配線と接地のガイドライン  
 https://literature.rockwellautomation.com/idc/groups/literature/documents/in/1770-in041_-ja-p.pdf
 
@@ -196,12 +195,11 @@ http://ggpah.org/
 
 ## 国際規格など
 * 安全規格類
+   * http://jp.idec.com/ja/solution/msafety/law/index.html
 
- * http://jp.idec.com/ja/solution/msafety/law/index.html
+   * https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A8%E5%9B%BD%E9%9A%9B%E8%A6%8F%E6%A0%BC100524-1_0005.pdf
 
- * https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A8%E5%9B%BD%E9%9A%9B%E8%A6%8F%E6%A0%BC100524-1_0005.pdf
-
- * https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/JIS%E7%B3%BBbeppyoudai12.pdf
+   * https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/JIS%E7%B3%BBbeppyoudai12.pdf
 
 * グループ安全規格　IEC60204-1  
 http://jp.idec.com/ja/solution/msafety/law/iso-iec/iec60204.html
