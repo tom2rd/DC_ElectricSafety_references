@@ -245,3 +245,12 @@ Presented by: Joost de Koning
 Member standardisation committee NEC TC64 and workgroup DC installations
 https://dc-foundation-netherlands.org/wp-content/uploads/2019/05/3.5-GG-DC-congres-15-6-2018-presentatie-Joost-de-Koning-V1.pdf
 
+
+# 部品・機器・製品安全
+## JEITA
+- RCR-1001B	日電気・電子機器用部品の安全アプリケーションガイド  
+https://www.jeita.or.jp/japanese/public_standard/#
+https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
+
+- RC-4501	日低圧サージ防護デバイス用分離器SPD分離器ヒューズ(SFD)の要求性能及び試験方法	2013.12
+- RC-4502	日低圧サージ防護デバイス用分離器SPD分離器ヒューズ(SFD)の選定及び適用基準	2013.12	
