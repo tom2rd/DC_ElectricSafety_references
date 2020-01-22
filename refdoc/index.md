@@ -261,8 +261,16 @@ https://dc-foundation-netherlands.org/wp-content/uploads/2019/05/3.5-GG-DC-congr
 
 
 # 部品・機器・製品安全
+## IEC60204-1 機械類の安全性―機械の電気装置― 第１部：一般要求事項
+- 第１部：一般要求事項
+http://www.jmf.or.jp/japanese/standard/pdf/I_4.pdf
+
 ## 経産省　製品安全ガイド
-- https://www.meti.go.jp/product_safety/index.html
+- 製品安全ガイド  
+https://www.meti.go.jp/product_safety/index.html
+  - リスクアセスメント・ハンドブック実務編
+  https://www.meti.go.jp/product_safety/recall/risk_assessment_practice.pdf
+
 ## NITE 製品評価技術基盤機構
 https://www.nite.go.jp/
 ## JEITA
@@ -280,6 +288,16 @@ https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
 
 - SPD（太陽光・直流）
   - IEC 61643-31「太陽電池設備の直流側に接続するサージ防護デバイスの要求性能　及び試験方法」JIS C 5381-31（仮）
-  - IEC 61643-32「太陽電池設備の直流側に接続するサージ防護デバイスの選定及び適用基準」 JIS C 5381-32（仮）
-  　2020 年内に発行される予定 
+  - IEC 61643-32「太陽電池設備の直流側に接続するサージ防護デバイスの選定及び適用基準」 JIS C 5381-32（仮）  
+  　2020 年内に発行される予定  
 　　https://home.jeita.or.jp/ecb/hyojun_topics/hyoujun_01.pdf
+
+### 素子メーカカタログなど
+- SOC ヒューズ選定手順  
+https://www.socfuse.com/wordpress/wp-content/uploads/J_fuse_selection_process_201811.pdf
+- 三菱電機　直流高電圧対応ノーヒューズ遮断器/ノーヒューズスイッチ（太陽光発電用）  
+https://www.mitsubishielectric.co.jp/fa/products/lvd/lvcb/items/dccb/index.html
+  -DCブレーカ早見表  
+  https://www.fujielectric.co.jp/products/low_voltage_circuit_breaker/dc/dc_breaker_img.html
+- 富士電機　配線用遮断器・漏電遮断器　直流用ブレーカシリーズ一覧  
+https://www.fujielectric.co.jp/products/low_voltage_circuit_breaker/dc/
