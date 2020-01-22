@@ -202,7 +202,7 @@ https://literature.rockwellautomation.com/idc/groups/literature/documents/in/177
 http://ggpah.org/
 
 - 日本電気協会　電気技術規定・電気技術指針  
-https://store.denki.or.jp/user_data/jea/cgl
+https://store.denki.or.jp/user_data/jea/cgl  
   - JEAC8001-2016 内線規程
   - JEAG8101-1971 低圧電路地絡保護指針
   - JEAC8701-1968 低圧電路に使用する自動しゃ断器の必要なしゃ断容量
@@ -256,21 +256,21 @@ inverters & and recommendations for solar PV in rural decentralised electrificat
 ## Shnieder
 * Standardisation in DC installations, what is done in The Netherlands? 
 Presented by: Joost de Koning
-Member standardisation committee NEC TC64 and workgroup DC installations
+Member standardisation committee NEC TC64 and workgroup DC installations  
 https://dc-foundation-netherlands.org/wp-content/uploads/2019/05/3.5-GG-DC-congres-15-6-2018-presentatie-Joost-de-Koning-V1.pdf
 
 
 # 部品・機器・製品安全
 ## IEC60204-1 機械類の安全性―機械の電気装置― 第１部：一般要求事項
-- 第１部：一般要求事項
+- 第１部：一般要求事項  
 http://www.jmf.or.jp/japanese/standard/pdf/I_4.pdf
 
 ## 経産省　製品安全ガイド
 - 製品安全ガイド  
 https://www.meti.go.jp/product_safety/index.html
-  - リスクアセスメント・ハンドブック実務編
+  - リスクアセスメント・ハンドブック実務編  
   https://www.meti.go.jp/product_safety/recall/risk_assessment_practice.pdf
-  - ガイダンス・製品安全入門
+  - ガイダンス・製品安全入門  
   https://www.meti.go.jp/product_safety/producer/pdf/28fy_jinzai/28fy_tokyo.pdf
 
 ## NITE 製品評価技術基盤機構
@@ -280,7 +280,7 @@ https://www.nite.go.jp/
 https://home.jeita.or.jp/anzen/
 
 - RCR-1001B	日電気・電子機器用部品の安全アプリケーションガイド  
-https://www.jeita.or.jp/japanese/public_standard/#
+https://www.jeita.or.jp/japanese/public_standard/#  
 https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
 
 - RC-4501	日低圧サージ防護デバイス用分離器SPD分離器ヒューズ(SFD)の要求性能及び試験方法	2013.12
@@ -308,8 +308,8 @@ https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
 - 直流　避雷器  
   - M-SYSTEMS  
   https://www.m-system.co.jp/products/mrester/mrester08.html
-  - 昭電
-  https://www.sdn.co.jp/products/lightn/dengen/
+  - 昭電  
+  https://www.sdn.co.jp/products/lightn/dengen/ 
     - 早見表  
     https://www.sdn.co.jp/products/lightn/dengen/hayami.html
   - 富士電機  
