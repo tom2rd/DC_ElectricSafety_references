@@ -270,6 +270,8 @@ http://www.jmf.or.jp/japanese/standard/pdf/I_4.pdf
 https://www.meti.go.jp/product_safety/index.html
   - リスクアセスメント・ハンドブック実務編
   https://www.meti.go.jp/product_safety/recall/risk_assessment_practice.pdf
+  - ガイダンス・製品安全入門
+  https://www.meti.go.jp/product_safety/producer/pdf/28fy_jinzai/28fy_tokyo.pdf
 
 ## NITE 製品評価技術基盤機構
 https://www.nite.go.jp/
