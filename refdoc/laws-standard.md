@@ -95,6 +95,7 @@
 
 ## 火災に関わる法律
 - 消防法[Wiki](https://ja.wikipedia.org/wiki/%E6%B6%88%E9%98%B2%E6%B3%95)
+ - [消防用設備の配線](https://www.fdma.go.jp/laws/tutatsu/items/141021syou282_28.pdf)
 
 ## その他
 - 航空法
