@@ -27,7 +27,11 @@
   > 第四款 供給支障の防止（第十八条）  
 
   - 電気設備技術基準の解釈[pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/files/dengikaishaku.pdf)  
-    - 電気設備の技術基準の解釈の解説[pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/files/dengikaishakukaisetsu.pdf)  
+  >この電気設備の技術基準の解釈（以下「解釈」という。）は、電気設備に関する技術基準を定める省令（平成9年通商産業省令第52号。以下「省令」という。）に定める技術的要件を満たすものと認められる技術的内容をできるだけ具体的に示したものである。なお、省令に定める技術的要件を満たすものと認められる技術的内容はこの解釈に限定されるものではなく、省令に照らして十分な保安水準の確保が達成できる技術的根拠があれば、省令に適
+合するものと判断するものである。この解釈において、性能を規定しているものと規格を規定しているものとを併記して記載しているものは、いず
+れかの要件を満たすことにより、省令を満足することを示したものである。
+  
+   - 電気設備の技術基準の解釈の解説[pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/files/dengikaishakukaisetsu.pdf)  
   
 
 # 電気工事関係
