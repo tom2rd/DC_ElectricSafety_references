@@ -10,12 +10,12 @@
 
 電気事業の運営を適正かつ合理的ならしめることによつて、**電気の使用者の利益**を保護し、及び**電気事業**の健全な発達を図るとともに、**電気工作物**の工事、維持及び運用を規制することによつて、公共の安全を確保し、及び環境の保全を図ることを目的  
 
--  電気事業法施行令 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=340CO0000000206)  
--  電気事業法施行規則 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=407M50000400077)  
--  電気事業法施行規則の改正及び「電気事業法施行規則第96条から第102条までの解釈運用にあたっての考え方（内規）」の制定について [pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2008/files/081001-5-2.pdf)  
+	-  電気事業法施行令 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=340CO0000000206)  
+	-  電気事業法施行規則 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=407M50000400077)  
+	-  電気事業法施行規則の改正及び「電気事業法施行規則第96条から第102条までの解釈運用にあたっての考え方（内規）」の制定について [pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2008/files/081001-5-2.pdf)  
         承認制から登録制に移行したための内規
 
-  - 電気設備に関する技術基準を定める省令 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=409M50000400052)
+  - 電気設備に関する技術基準を定める省令 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=409M50000400052)  
   電気事業法に基づき、発電用設備の原動機などを除く電気工作物の技術基準を定める通商産業省令。行政手続法に基づく審査基準でもある。平成9年に全面改訂された際に機能性基準となり、その具体例については同年5月に電気設備の技術基準の解釈として制定  
   
   第三節 保安原則  
