@@ -9,6 +9,8 @@ Wikiへのリンクに補足追加
 - 電気事業法　[Wiki](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E6%B3%95)・[経産省](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/index.html)・[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=339AC0000000170) ・[
 告示](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/denjikokuji.html)
 
+電気事業の運営を適正かつ合理的ならしめることによつて、*電気の使用者の利益*を保護し、及び*電気事業*の健全な発達を図るとともに、*電気工作物*の工事、維持及び運用を規制することによつて、公共の安全を確保し、及び環境の保全を図ることを目的
+
   - 電気関係報告規則
   - 電気設備に関する技術基準を定める省令
   - 電気設備技術基準の解釈
