@@ -6,8 +6,7 @@ Wikiへのリンクに補足追加
 [経産省　電気の安全　法令](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/index.html#jikayo)
 
 # 電気保安・電気事業関係
-- 電気事業法　[Wiki](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E6%B3%95)　[経産省]https://www.meti.go.jp/policy/safety_security/industrial_safety/law/index.html)  
-[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=339AC0000000170) [
+- 電気事業法　[Wiki](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E6%B3%95)・[経産省](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/index.html)・[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=339AC0000000170) ・[
 告示](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/denjikokuji.html)
 
   - 電気関係報告規則
