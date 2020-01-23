@@ -2,17 +2,20 @@
 Wikiへのリンクに補足追加
 
 
-
-
+[電気関連法令Wiki](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E9%96%A2%E4%BF%82%E6%B3%95%E4%BB%A4)
+[経産省　電気の安全　法令](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/index.html#jikayo)
 
 # 電気保安・電気事業関係
-- 電気事業法
+- 電気事業法　[Wiki](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E6%B3%95)　[経産省]https://www.meti.go.jp/policy/safety_security/industrial_safety/law/index.html)  
+[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=339AC0000000170) [
+告示](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/denjikokuji.html)
+
   - 電気関係報告規則
   - 電気設備に関する技術基準を定める省令
   - 電気設備技術基準の解釈
 
 # 電気工事関係
-- 電気工事士法
+- 電気工事士法 
   - 電気工事業の業務の適正化に関する法律
 
 # 電気用品関係
