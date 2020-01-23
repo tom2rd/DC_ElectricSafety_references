@@ -14,21 +14,21 @@
 -  電気事業法施行規則 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=407M50000400077)  
 -  電気事業法施行規則の改正及び「電気事業法施行規則第96条から第102条までの解釈運用にあたっての考え方（内規）」の制定について [pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2008/files/081001-5-2.pdf)  
         承認制から登録制に移行したための内規
+  - 電気関係報告規則[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=340M50000400054)
+
 ## 技術基準　[電気事業法第39条](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=339AC0000000170#794)など
 - 電気設備に関する技術基準を定める省令 [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=409M50000400052)  
   電気事業法に基づき、発電用設備の原動機などを除く電気工作物の技術基準を定める通商産業省令。行政手続法に基づく審査基準でもある。平成9年に全面改訂された際に機能性基準となり、その具体例については同年5月に電気設備の技術基準の解釈として制定  
   
-  第三節 保安原則  
-  第一款 感電、火災等の防止（第四条―第十一条）  
-  第二款 異常の予防及び保護対策（第十二条―第十五条の二）  
-  第三款 電気的、磁気的障害の防止（第十六条・第十七条）  
-  第四款 供給支障の防止（第十八条）  
+  > 第三節 保安原則  
+  > 第一款 感電、火災等の防止（第四条―第十一条）  
+  > 第二款 異常の予防及び保護対策（第十二条―第十五条の二）  
+  > 第三款 電気的、磁気的障害の防止（第十六条・第十七条）  
+  > 第四款 供給支障の防止（第十八条）  
 
   - 電気設備技術基準の解釈[pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/files/dengikaishaku.pdf)  
     - 電気設備の技術基準の解釈の解説[pdf](https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/files/dengikaishakukaisetsu.pdf)  
   
-  - 電気関係報告規則[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=340M50000400054)
-
 
 # 電気工事関係
 - 電気工事士法 
