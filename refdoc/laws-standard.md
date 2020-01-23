@@ -84,21 +84,26 @@
   - 労働安全衛生法施行令[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=347CO0000000318)
   - 労働安全衛生規則[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=347M50002000032)
 
-##　消費者保護に関わる法律
+## 消費者保護に関わる法律
 - 製造物責任法[Wiki](https://ja.wikipedia.org/wiki/%E8%A3%BD%E9%80%A0%E7%89%A9%E8%B2%AC%E4%BB%BB%E6%B3%95)
 　電気安全用品法　を　満たすこと　から　リスクアセスメントの実施へ
 
-##　図面管理・接地に関する法律
+## 図面管理・接地に関する法律
 - 建築基準法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E5%9F%BA%E6%BA%96%E6%B3%95)[eGoV](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=325AC0000000201)
 - 建設業法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E8%A8%AD%E6%A5%AD%E6%B3%95)
 - 建築士法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E5%A3%AB%E6%B3%95)
 
-##　火災に関わる法律
+## 火災に関わる法律
 - 消防法[Wiki](https://ja.wikipedia.org/wiki/%E6%B6%88%E9%98%B2%E6%B3%95)
 
-##　その他
+## その他
 - 航空法
 - 電波法
-- 電気通信事業法
-- 有線電気通信法
+- 電気通信事業法[eGoV](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?openerCode=1&lawId=359AC0000000086_20191001_501AC0000000005#1)  
+- 有線電気通信法[eGoV](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=328AC0000000096#28)
+> 第五条　有線電気通信設備（政令で定めるものを除く。）は、政令で定める技術基準に適合するものでなければならない。
+> ２　前項の技術基準は、これにより次の事項が確保されるものとして定められなければならない。
+> 一　有線電気通信設備は、他人の設置する有線電気通信設備に妨害を与えないようにすること。
+> 二　有線電気通信設備は、人体に危害を及ぼし、又は物件に損傷を与えないようにすること。
+
 
