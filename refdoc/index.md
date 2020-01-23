@@ -89,6 +89,9 @@ https://www.juniper.net/documentation/ja/release-independent/junos/topics/refere
 - 中低圧直流配電ネットワークシステム　（三菱電機）
 https://www.giho.mitsubishielectric.co.jp/giho/pdf/2017/1709107.pdf
 
+- 東京都電気設備工事標準仕様書  
+https://www.zaimu.metro.tokyo.lg.jp/kentikuhozen/eizen/denkihyoujun.pdf
+
 ## NEDO資料より
 - 平成 21 年度 ～ 平成 24 年度成果報告書  
 「グリーンネットワーク・システム技術研究開発プロジェクト  
