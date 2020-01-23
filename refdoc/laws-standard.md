@@ -46,6 +46,9 @@
 頻繁に改訂される。製品安全・リスクマネジメントの考えなどが取り入れられかけている。PSE等
 >　電気用品の製造、販売等を規制するとともに、電気用品の安全性の確保につき民間事業者の自主的な活動を促進することにより、電気用品による危険及び障害の発生を防止することを目的
 
+　- PSE認証[日本品質保証協会：電気用品安全法（PSEマーク）](https://www.jqa.jp/service_list/safety/service/mandatory/pse/)
+ 
+
 # 電気関係規格(民間規格）
 - 内線規程[Wiki](https://ja.wikipedia.org/wiki/%E5%86%85%E7%B7%9A%E8%A6%8F%E7%A8%8B)
   - 電力会社の民間規程[日本電気協会 第13版2016　改訂補足は2019年あり](https://store.denki.or.jp/products/detail/301)  
@@ -74,12 +77,26 @@
 
 # その他の関連法令
 - エネルギーの使用の合理化等に関する法律
-- 労働安全衛生法
-- 製造物責任法
-- 建築基準法
-- 建設業法
-- 建築士法
-- 消防法
+## 労働者安全に関わる法律
+- 労働安全衛生法[Wiki](https://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E5%AE%89%E5%85%A8%E8%A1%9B%E7%94%9F%E6%B3%95) [eGov](労働安全衛生法)   
+  - [労働安全衛生規則 第二編 第五章 電気による危険の防止（第三百二十九条－第三百五十四条）](https://www.jaish.gr.jp/anzen/hor/hombun/hor1-2/hor1-2-1-2h5-0.htm)
+  
+  - 労働安全衛生法施行令[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=347CO0000000318)
+  - 労働安全衛生規則[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=347M50002000032)
+
+##　消費者保護に関わる法律
+- 製造物責任法[Wiki](https://ja.wikipedia.org/wiki/%E8%A3%BD%E9%80%A0%E7%89%A9%E8%B2%AC%E4%BB%BB%E6%B3%95)
+　電気安全用品法　を　満たすこと　から　リスクアセスメントの実施へ
+
+##　図面管理・接地に関する法律
+- 建築基準法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E5%9F%BA%E6%BA%96%E6%B3%95)[eGoV](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=325AC0000000201)
+- 建設業法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E8%A8%AD%E6%A5%AD%E6%B3%95)
+- 建築士法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E5%A3%AB%E6%B3%95)
+
+##　火災に関わる法律
+- 消防法[Wiki](https://ja.wikipedia.org/wiki/%E6%B6%88%E9%98%B2%E6%B3%95)
+
+##　その他
 - 航空法
 - 電波法
 - 電気通信事業法
