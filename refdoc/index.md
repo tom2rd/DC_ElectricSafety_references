@@ -63,6 +63,9 @@ https://www.chademo.com/ja/
   http://www.chademo.com/wp2016/wp-content/japan-uploads/seibi10seikoc&e.pdf  
   https://www.seiko-denki.co.jp/wp/wp-content/uploads/2018/08/SEIKO_SDL0A-1A-E-type_dcfaultdetector_chademo_ed.2.pdf  
 
+    - 電気自動車のUL安全規格と急速充電器の規格
+    http://www.chademo.com/wp2016/wp-content/japan-uploads/ULseminar1122.pdf
+
 - 既存の分譲マンションへの電気自動車充電設備導入マニュアル（急速充電器特別措置改正版）
 http://www.mks-as.net/files/topics/779_ext_08_0.pdf
 
@@ -201,6 +204,9 @@ https://literature.rockwellautomation.com/idc/groups/literature/documents/in/177
 * 直流給電アライアンス  
 http://ggpah.org/
 
+* 過電圧耐力/安全性の技術的条件（案）  
+https://www.soumu.go.jp/main_content/000025713.pdf
+
 - 日本電気協会　電気技術規定・電気技術指針  
 https://store.denki.or.jp/user_data/jea/cgl  
   - JEAC8001-2016 内線規程
@@ -312,6 +318,8 @@ https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
   https://www.sdn.co.jp/products/lightn/dengen/ 
     - 早見表  
     https://www.sdn.co.jp/products/lightn/dengen/hayami.html
+    - SPDの資料　これ参考になります
+    https://www.sdn.co.jp/download/catalog/img/spd.pdf
   - 富士電機  
   https://www.fujielectric.co.jp/technica/products/spd/
     
