@@ -308,6 +308,9 @@ https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
 　　https://home.jeita.or.jp/ecb/hyojun_topics/hyoujun_01.pdf
 
 ### 素子メーカカタログなど
+- 接地システムの概要  
+　https://www.techspire.co.jp/images/lucas-nuelle/UniTrain-I_SO4204-4M.pdf
+
 - 直流　過電流保護・遮断
   - SOC ヒューズ選定手順  
   https://www.socfuse.com/wordpress/wp-content/uploads/J_fuse_selection_process_201811.pdf
