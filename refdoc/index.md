@@ -309,7 +309,12 @@ https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
 
 ### 素子メーカカタログなど
 - 接地システムの概要  
-　https://www.techspire.co.jp/images/lucas-nuelle/UniTrain-I_SO4204-4M.pdf
+　- 接地システム毎の感電経路  
+  https://www.techspire.co.jp/images/lucas-nuelle/UniTrain-I_SO4204-4M.pdf
+  - 接地システム毎の比較  
+  http://www.net1.jway.ne.jp/atom2606/earth2.htm 
+  - 接地システムの役割  
+  http://www.net1.jway.ne.jp/atom2606/earth1.htm 
 
 - 直流　過電流保護・遮断
   - SOC ヒューズ選定手順  
