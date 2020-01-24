@@ -320,8 +320,8 @@ https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
   - SOC ヒューズ選定手順  
   https://www.socfuse.com/wordpress/wp-content/uploads/J_fuse_selection_process_201811.pdf
   - 三菱電機　直流高電圧対応ノーヒューズ遮断器/ノーヒューズスイッチ（太陽光発電用）  
-  https://www.mitsubishielectric.co.jp/fa/products/lvd/lvcb/items/dccb/index.html
-    -DCブレーカ早見表  
+  https://www.mitsubishielectric.co.jp/fa/products/lvd/lvcb/items/dccb/index.html  
+    - DCブレーカ早見表  
     https://www.fujielectric.co.jp/products/low_voltage_circuit_breaker/dc/dc_breaker_img.html
   - 富士電機　配線用遮断器・漏電遮断器　直流用ブレーカシリーズ一覧  
   https://www.fujielectric.co.jp/products/low_voltage_circuit_breaker/dc/
