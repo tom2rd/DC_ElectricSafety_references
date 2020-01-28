@@ -78,8 +78,18 @@ http://www.jpea.gr.jp/topics/150525.html
 - SUNGROW 33.3kW 太陽光発電用パワーコンディショナ SG33K3J 仕様書  
 https://www.bmn.jp/ene/img/sungrow/SG33K3J.pdf
 
+|直流入力| |
+|-----|------|
+|定格入力電圧| DC660V|
+|最大入力電圧 |DC1100V※1|
+|運転入力電圧範囲 |DC200V～1000V|
+|最大電力追従範囲 DC450V～DC850V|
+|最大入力電流 |99A(33A/33A/33A)| 
+
 - ダイヤモンド電機  
-https://www.diaelec.co.jp/%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B/%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E4%BA%8B%E6%A5%AD/power-con/
+https://www.diaelec.co.jp/%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B/%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E4%BA%8B%E6%A5%AD/power-con/  
+https://www.diaelec.co.jp/power-con/DPCO-55C/DPCO-55C_%E8%A3%BD%E5%93%81%E4%BB%95%E6%A7%98%E6%9B%B8(%E6%9C%80%E6%96%B0%E7%89%88).pdf  
+
 
 - SUNTECH  
 https://www.suntech-power.co.jp/products/system/
