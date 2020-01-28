@@ -1,6 +1,6 @@
 # DC interface requirements
 
-# HVDC
+# HVDC (LVDC)
 ## 通信装置
 - ITU-T L.1200  
 https://www.itu.int/rec/T-REC-L.1200-201205-I/en
@@ -9,12 +9,12 @@ https://www.ttc.or.jp/application/files/7115/5427/5278/JT-L1200v1.2.pdf
 - NTT-TR  
  https://www.ntt.co.jp/ontime/img/pdf/TR176002ed1.2_20180903J.pdf
 
-# PCS
+## PCS
 
 
-# AC adaptor
+## AC/DC
 
-# DC plugs
+## DC plugs
 - IEC TS 62735-1:2015  (SCHURTER AG)
 Direct current (DC) plugs and socket-outlets for information and communication technology (ICT) equipment installed in data centres and telecom central offices - Part 1: Plug and socket-outlet system for 2,6 kW  
 https://webstore.iec.ch/publication/23188
