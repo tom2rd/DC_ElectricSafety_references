@@ -24,8 +24,17 @@ https://www.jema-net.or.jp/Japanese/res/dispersed/
 https://www.jema-net.or.jp/Japanese/res/solar/
 
 ## 双方向DCコンバータ
-- TDK
+- TDK  
 https://product.tdk.com/info/ja/techlibrary/techjournal/index9.html
+
+|モデル名	| EZA2500-32048	| EZA11K-320240|
+|高圧側電圧範囲	| 320VDC(300～380VDC)	| 320VDC(240～400VDC)|
+| 効率	| 92%	| 95%| 
+| 二次電池側電圧範囲	| 48VDC(36～60VDC)	| 240VDC(150～300VDC)|
+|最大出力電力	| 2.5kW	| 11kW |
+|通信方式	| RS485 |
+|運転モード	| 他律/自律|
+|その他	| 入出力絶縁、並列運転による拡張可|
 
 ## PCS　パワーコンディショナ
 - JIS C 8980:2009 小出力太陽光発電用パワーコンディショナ  
