@@ -44,6 +44,9 @@ https://kikakurui.com/c8/C8980-2009-01.html
 - 太陽光発電協会 表示ガイドライン（平成 30 年度）  
 http://www.jpea.gr.jp/pdf/guideline_h30.pdf
 
+- パワーコンディショナーの回路方式 商用周波変圧器絶縁方式/高周波変圧器絶縁方式/トランスレス方式  
+http://www.solartech.jp/power_condit/circuit-system.html
+
 - ニチコン　トランスレス・非絶縁 家庭用蓄電システム トライブリッド蓄電システム  
 https://www.nichicon.co.jp/products/ess/pdf/t1_torisetsu_42830-11.pdf
 
