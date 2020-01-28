@@ -104,6 +104,9 @@ https://electric-facilities.jp/denki9/hijyou.html
 
 
 ## NEDO資料より
+- NEDO 報告書DB  
+https://app5.infoc.nedo.go.jp/disclosure/Login  
+
 - 平成 21 年度 ～ 平成 24 年度成果報告書  
 「グリーンネットワーク・システム技術研究開発プロジェクト  
 （グリーンＩＴプロジェクト）／エネルギー利用最適化データセンタ基盤技術の研究開発／データセンタの電源システムと最適直流化技術の開発」  
