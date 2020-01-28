@@ -8,6 +8,13 @@ https://www.itu.int/rec/T-REC-L.1200-201205-I/en
 https://www.ttc.or.jp/application/files/7115/5427/5278/JT-L1200v1.2.pdf
 - NTT-TR  
  https://www.ntt.co.jp/ontime/img/pdf/TR176002ed1.2_20180903J.pdf
+ 
+ | Items | Values |
+|--------|---------|
+| Taeget Voltage range | 260 V - 400 V|
+| Transitional solution |192 V-288 V |
+| Abnomal Range | 0 V < U < 260 V. 400 V < U < 410 V|
+|Reference test voltage (UT) | UT = 380 V or UT = 300 V |
 
 ## PCS
 
