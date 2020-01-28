@@ -6,12 +6,29 @@
 https://www.itu.int/rec/T-REC-L.1200-201205-I/en
 - TTC-JT L.1200  
 https://www.ttc.or.jp/application/files/7115/5427/5278/JT-L1200v1.2.pdf
-- NTT-TR 
+- NTT-TR  
  https://www.ntt.co.jp/ontime/img/pdf/TR176002ed1.2_20180903J.pdf
 
 # PCS
 
+
 # AC adaptor
+
+# DC plugs
+- IEC TS 62735-1:2015  
+Direct current (DC) plugs and socket-outlets for information and communication technology (ICT) equipment installed in data centres and telecom central offices - Part 1: Plug and socket-outlet system for 2,6 kW  
+https://webstore.iec.ch/publication/23188
+
+| item | value |
+|----|----| 
+| a rated power | 2,6 kW |  
+| a rated voltage range | from 294 V to 400 V d.c.|
+
+- IEC TS 62735-2:2016  （富士通）
+Direct current (DC) plugs and socket-outlets for information and communication technology (ICT) equipment installed in data centres and telecom central offices - Part 2: Plug and socket-outlet system for 5,2 kW  
+https://webstore.iec.ch/publication/27246
+
+
 
 
 # IEEE
@@ -31,5 +48,5 @@ https://www.ttc.or.jp/application/files/7115/5427/5278/JT-L1200v1.2.pdf
 
 # IEC
 - IEC 61975 High-voltage direct current (HVDC) installations – System tests  
-https://standards.globalspec.com/std/10043983/iec-61975
+  https://standards.globalspec.com/std/10043983/iec-61975
 - 
