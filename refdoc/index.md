@@ -11,6 +11,13 @@
   2019 年4 月  
   https://unit.aist.go.jp/rcpv/ci/service/PV_Electrical_Safety/Technical_Information_on_PV_Electrical_Safety2(AIST2019).pdf
 
+- 太陽光発電システム保守点検ガイドライン第2版 (JEMA/太陽光発電協会)  
+https://www.jema-net.or.jp/Japanese/res/solar/pdf/191227_pv_maintenance.pdf
+
+- 消費者安全法第23条第１項の規定に基づく事故等原因調査報告書  
+住宅用太陽光発電システムから発生した火災事故等   
+https://www.caa.go.jp/policies/council/csic/report/report_012/pdf/report_012_190128_0002.pdf
+
 ## EVの参考資料
 - 感電安全を考慮したワイヤハーネス設計の紹介 
 https://www.mazda.com/contentassets/9f20b44883774edfbbc3810b2e586dec/files/2012_no028.pdf
