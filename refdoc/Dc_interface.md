@@ -81,6 +81,18 @@ https://www.diaelec.co.jp/%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B/%E9%9B%BB%E5%AD%9
 - SUNTECH  
 https://www.suntech-power.co.jp/products/system/
 
+|型名	|GPR44A	/ GPR55A|
+|----|----|
+|定格容量|	4.4kW	/ 5.5kW|
+|定格入力電圧	| DC330V |
+|入力電圧範囲	| DC50～450V |
+| 定格出力電圧	|AC202V |
+|定格出力電流	|22A	/ 27.5A |
+|定格周波数	| 50／60Hz |
+|電力変換効率	| 95.5%(定格入力電圧DC250V) / 96.0%(定格入力電圧DC330V)|
+|動作温度範囲 |	-20～+50℃|
+
+
 - 日立（キュービクル型）  
 https://www.hitachi-ies.co.jp/solution/kankyo/buydengw.html
 
