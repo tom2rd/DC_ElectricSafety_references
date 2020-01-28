@@ -28,6 +28,7 @@ https://www.jema-net.or.jp/Japanese/res/solar/
 https://product.tdk.com/info/ja/techlibrary/techjournal/index9.html
 
 |モデル名	| EZA2500-32048	| EZA11K-320240|
+|--------|---------|---------|
 |高圧側電圧範囲	| 320VDC(300～380VDC)	| 320VDC(240～400VDC)|
 | 効率	| 92%	| 95%| 
 | 二次電池側電圧範囲	| 48VDC(36～60VDC)	| 240VDC(150～300VDC)|
