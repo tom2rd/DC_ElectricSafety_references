@@ -113,6 +113,8 @@ https://www.hitachi-ies.co.jp/solution/kankyo/buydengw.html
 https://www.daihen.co.jp/products/electric/power/
 
 ## AC/DC
+- TDKラムダ 電源テクニカルハンドブック  
+https://product.tdk.com/info/ja/documents/handbook/pstechbook_ja.pdf
 
 ## DC plugs
 - IEC TS 62735-1:2015  (SCHURTER AG)
