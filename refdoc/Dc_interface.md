@@ -33,14 +33,13 @@ https://webstore.iec.ch/publication/27246
 | a rated power | 5,2 kW |  
 | a rated voltage range | from 294 V to 400 V d.c.|
 
-## SCHURTER AG
+## SCHURTER AG  
+- https://www.schurter.com/Newsroom/Timeline/First-400-VDC-coupler-system-according-to-IEC  
+- https://www.gec-tokyo.co.jp/press-release/2019-05-16_schurter-gp21-gs21-product-release  
 
-https://www.gec-tokyo.co.jp/press-release/2019-05-16_schurter-gp21-gs21-product-release
 
-
-## Fujitsu 直流給電システム用コンセントユニット・ソケット・プラグ アプリケーション
-https://www.fujitsu.com/jp/group/fcl/products/pdu/applications/
-
+## Fujitsu 直流給電システム用コンセントユニット・ソケット・プラグ アプリケーション  
+- https://www.fujitsu.com/jp/group/fcl/products/pdu/applications/  
 
 
 # IEEE
