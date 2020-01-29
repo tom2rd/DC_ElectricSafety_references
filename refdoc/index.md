@@ -99,6 +99,23 @@ https://www.giho.mitsubishielectric.co.jp/giho/pdf/2017/1709107.pdf
 - 東京都電気設備工事標準仕様書  
 https://www.zaimu.metro.tokyo.lg.jp/kentikuhozen/eizen/denkihyoujun.pdf
 
+## 照明器具（主にLED）
+- 一般照明用LED光源、LED制御装置及びLED照明器具　規格類一覧(PDF)  日本工業規格、日本照明工業会規格、日本照明工業会ガイドの一覧です。
+   https://jlma.or.jp/led/pdf/LED_kikaku.pdf
+- その他の規格関連情報(PDF)JIS （日本工業標準）におけるJLMAの取組み情報
+   https://jlma.or.jp/hyoujunka/pdf/jlma_jis-iec.pdf
+   
+  - JIS C 7709-1～3 追補11 H29/09/20改正 電球類の口金・受金及びそれらのゲージ並びに互換性・安全性 
+      - 第1～3部：口金，受金，ゲージ
+  - JIS C 8147-1 H29/01/20改正 ランプ制御装置―第１部：通則及び安全性要求事項
+  - JIS C 8147-2-13 H29/03/21改正 ランプ制御装置－第2-13部：直流又は交流電源用ＬＥＤモジュール用 制御装置の個別要求事項(安全規格)
+  - JIS C 8154 H27/10/20改正 一般照明用ＬＥＤモジュール－安全仕様
+  - JIS C 8156 H29/10/20改正 一般照明用電球形ＬＥＤランプ（電源電圧50V超）－安全仕様
+  - JIS C 8158 H29/12/20改正 一般照明用電球形ＬＥＤランプ（電源電圧50V超） [JIS製品規格]
+  - JIS C 8159-1 H25/04/22制定 一般照明用GX16t-5口金付直管LEDランプ-第1部 安全仕様
+  - JIS C 8160 H29/12/20制定 一般照明用GX16t-5口金付直管LEDランプ [JIS製品規格]
+   
+
 - 非常用照明  
 https://electric-facilities.jp/denki9/hijyou.html
 
