@@ -122,6 +122,14 @@ https://www.fa.omron.co.jp/guide/faq/detail/faq02011.html
 - COSEL 並列運転
 https://www.cosel.co.jp/technical/app_guide/pba/pdf/b3.pdf
 
+### Analog Devices Power Supply
+- Power Supply management  
+https://www.analog.com/jp/analog-dialogue/articles/power-supply-management.html
+
+- 複数電源レール・システムの監視とシーケンス制御  
+https://www.analog.com/jp/analog-dialogue/articles/monitoring-and-sequencing-multirail-power-supply-sys.html#
+
+
 ## DC plugs
 - IEC TS 62735-1:2015  (SCHURTER AG)
 Direct current (DC) plugs and socket-outlets for information and communication technology (ICT) equipment installed in data centres and telecom central offices - Part 1: Plug and socket-outlet system for 2,6 kW  
