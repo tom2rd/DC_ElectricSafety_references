@@ -224,6 +224,10 @@ https://webstore.iec.ch/publication/27246
 | a rated power | 5,2 kW |  
 | a rated voltage range | from 294 V to 400 V d.c.|
 
+## 2.6kW AC/DC hybrid
+- IEC TS63236-3 
+- IEC TS63236 
+
 ## SCHURTER AG  (IEC 62735-1) 
 - https://www.schurter.com/Newsroom/Timeline/First-400-VDC-coupler-system-according-to-IEC  
 - https://www.gec-tokyo.co.jp/press-release/2019-05-16_schurter-gp21-gs21-product-release  
