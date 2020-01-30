@@ -255,4 +255,19 @@ https://webstore.iec.ch/publication/27246
 # IEC
 - IEC 61975 High-voltage direct current (HVDC) installations – System tests  
   https://standards.globalspec.com/std/10043983/iec-61975
-- 
+
+
+# 参考
+##　電力品質確保に係る系統連系技術要件ガイドライン　令和元年１０月７日　資源エネルギー庁 
+- 出力抑制が主  
+  https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/summary/regulations/pdf/keito_guideline.pdf
+
+## 系統連携
+- 東京電力　系統連系に係る設備設計について  
+  http://www.tepco.co.jp/pg/consignment/rule-tr-dis/pdf/setuse-j.pdf
+  
+- 関西電力　系統連系技術要件〔託送供給等約款別冊〕  
+  https://www.kepco.co.jp/corporate/takusou/yakkan/pdf/h28_ktrenkei_dt.pdf
+  
+  
+
