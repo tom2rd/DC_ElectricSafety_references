@@ -41,6 +41,9 @@ https://product.tdk.com/info/ja/techlibrary/techjournal/index9.html
 - JIS C 8980:2009 小出力太陽光発電用パワーコンディショナ  
 https://kikakurui.com/c8/C8980-2009-01.html
 
+- JIS C 8962  小出力太陽光発電用パワーコンディショナの試験方法  
+https://kikakurui.com/c8/C8962-2008-01.html
+
 - 太陽光発電協会 表示ガイドライン（平成 30 年度）  
 http://www.jpea.gr.jp/pdf/guideline_h30.pdf
 
