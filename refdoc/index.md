@@ -85,7 +85,9 @@ http://www.mks-as.net/files/topics/779_ext_08_0.pdf
 
 ## 需要家側設備
 - 直流化に伴う次世代住宅の電気安全
-https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E7%9B%B4%E6%B5%81%E5%8C%96%E3%81%AB%E4%BC%B4%E3%81%86%E6%AC%A1%E4%B8%96%E4%BB%A3%E4%BD%8F%E5%AE%85%E3%81%AE%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A831_210.pdf
+https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E7%9B%B4%E6%B5%81%E5%8C%96%E3%81%AB%E4%BC%B4%E3%81%86%E6%AC%A1%E4%B8%96%E4%BB%A3%E4%BD%8F%E5%AE%85%E3%81%AE%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A831_210.pdf　　
+ - Cite　　
+https://www.jstage.jst.go.jp/article/ieiej/31/3/31_210/_article/download/-char/ja　　
 
 - 電気安全の手引き（高エネルギー設備）
 https://github.com/tom2rd/DC_ElectricSafety_references/blob/master/refdoc/%E9%9B%BB%E6%B0%97%E5%AE%89%E5%85%A8%E3%81%AE%E6%89%8B%E5%BC%95%E3%81%8Ddenki-tebiki.pdf
