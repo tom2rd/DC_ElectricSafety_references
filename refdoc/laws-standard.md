@@ -4,13 +4,13 @@
 - [電気関連法令Wiki](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E9%96%A2%E4%BF%82%E6%B3%95%E4%BB%A4)  
 - [経産省　電気の安全　法令](https://www.meti.go.jp/policy/safety_security/industrial_safety/law/index.html)eGoVへのリンクあり 
 
-        - 電力の安全
+	- 電力の安全
         https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/index.html
-                - 電気設備の安全  
+		- 電気設備の安全  
                 https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/detail/setsubi.html  
-                        - 電気工作物の保安  
+			- 電気工作物の保安  
                           https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/detail/setsubi_hoan.html  
-                - 電気作業の安全
+		- 電気作業の安全
                 https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/detail/koji.html
                 
         　
