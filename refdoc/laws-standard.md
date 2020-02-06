@@ -135,7 +135,8 @@
 
 ### 病院電気設備の保安点検の基礎知識
 - 病院電気設備の安全基準(JIS T 1022)の概要  
-  https://jhk-or.jp/images/member29_3_1.pdf
+  https://jhk-or.jp/images/member29_3_1.pdf  
+  http://kikakurui.com/t1/T1022-2018-01.html  
 
 ### 感震ブレーカーの普及に向けた取組状況平成２８年３月内閣府（防災担当） 
 - http://www.bousai.go.jp/jishin/syuto/denkikasaitaisaku/pdf/torikumi_201603.pdf
