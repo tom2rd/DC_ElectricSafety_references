@@ -90,6 +90,12 @@
 　JIS規格のこと
  - JIS 電気安全[JISハンドブック 電気安全](https://webdesk.jsa.or.jp/books/W11M0100/index/?syohin_cd=318758)　　
 
+- 日本電機工業会　JEMA　[HP](https://www.jema-net.or.jp/)
+	- 分散電源  
+	https://www.jema-net.or.jp/Japanese/res/dispersed/
+	- 太陽光発電  
+	https://www.jema-net.or.jp/Japanese/res/solar/
+
 - 日本配線システム工業会[HP](http://www.jewa.or.jp/)  
 	- [JWDS 規格一覧](http://www.jewa.or.jp/sale/jwds1.html)
 		- JWDS0029  太陽光発電用直流開閉器  
