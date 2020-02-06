@@ -110,7 +110,7 @@
 # その他の関連法令
 - エネルギーの使用の合理化等に関する法律
 ## 労働者安全に関わる法律
-- 労働安全衛生法[Wiki](https://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E5%AE%89%E5%85%A8%E8%A1%9B%E7%94%9F%E6%B3%95) [eGov](労働安全衛生法)   
+- 労働安全衛生法[Wiki](https://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E5%AE%89%E5%85%A8%E8%A1%9B%E7%94%9F%E6%B3%95) [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=347AC0000000057&openerCode=1)   
   - [労働安全衛生規則 第二編 第五章 電気による危険の防止（第三百二十九条－第三百五十四条）](https://www.jaish.gr.jp/anzen/hor/hombun/hor1-2/hor1-2-1-2h5-0.htm)
   
   - 労働安全衛生法施行令[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=347CO0000000318)
