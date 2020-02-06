@@ -86,6 +86,15 @@
 　JIS規格のこと
  - JIS 電気安全[JISハンドブック 電気安全](https://webdesk.jsa.or.jp/books/W11M0100/index/?syohin_cd=318758)　　
 
+- 日本配線システム工業会[HP](http://www.jewa.or.jp/)  
+	- [JWDS 規格一覧](http://www.jewa.or.jp/sale/jwds1.html)
+		- JWDS0029  太陽光発電用直流開閉器  
+		（太陽光発電システム内の直流電路において、太陽電池とインバーターとの間の電路切り離し用の開閉器）に関する規格で適用範囲、目的、定義、定格、性能、構造・表示、寸法・材料、試験方法、試験、表示などについて規定  
+	
+	- [JWD-T マニュアル・ガイド一覧](http://www.jewa.or.jp/sale/jwdt1.html)
+		- JWD-T34  住宅における直流配電システム調査報告書  
+		低炭素社会の実現に向けた省エネ効果のある配線システム提案のために行なった直流配電システムの調査
+
 # その他の関連法令
 - エネルギーの使用の合理化等に関する法律
 ## 労働者安全に関わる法律
@@ -122,3 +131,5 @@
 - 病院電気設備の安全基準(JIS T 1022)の概要  
   https://jhk-or.jp/images/member29_3_1.pdf
 
+### 感震ブレーカーの普及に向けた取組状況平成２８年３月内閣府（防災担当） 
+- http://www.bousai.go.jp/jishin/syuto/denkikasaitaisaku/pdf/torikumi_201603.pdf
