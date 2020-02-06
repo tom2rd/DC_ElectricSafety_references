@@ -117,7 +117,10 @@
   - 労働安全衛生規則[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=347M50002000032)
 
 ## 消費者保護に関わる法律
-- 製造物責任法[Wiki](https://ja.wikipedia.org/wiki/%E8%A3%BD%E9%80%A0%E7%89%A9%E8%B2%AC%E4%BB%BB%E6%B3%95)
+- 製造物責任法[Wiki](https://ja.wikipedia.org/wiki/%E8%A3%BD%E9%80%A0%E7%89%A9%E8%B2%AC%E4%BB%BB%E6%B3%95)[eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=406AC0000000085&openerCode=1)  
+（目的）
+第一条　この法律は、製造物の欠陥により人の生命、身体又は財産に係る被害が生じた場合における製造業者等の損害賠償の責任について定めることにより、被害者の保護を図り、もって国民生活の安定向上と国民経済の健全な発展に寄与することを目的とする。  
+
 　電気安全用品法　を　満たすこと　から　リスクアセスメントの実施へ
 
 ## 図面管理・接地に関する法律
