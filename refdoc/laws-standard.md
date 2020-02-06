@@ -149,3 +149,20 @@
 
 ### 感震ブレーカーの普及に向けた取組状況平成２８年３月内閣府（防災担当） 
 - http://www.bousai.go.jp/jishin/syuto/denkikasaitaisaku/pdf/torikumi_201603.pdf
+
+# 鉄道事業法[Wiki](https://ja.wikipedia.org/wiki/%E9%89%84%E9%81%93%E4%BA%8B%E6%A5%AD%E6%B3%95) [eGov](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=361AC0000000092)
+電気事業法において、直流の記述が多い。鉄道事業法には、その記述はないが、以下の省令なども参考にする
+
+- 鉄道に関する技術上の基準を定める省令の解釈基準  
+  http://www.mlit.go.jp/common/001273450.pdf  
+- 参考　鉄道分野における標準化と規格  
+  https://www.jsa.or.jp/datas/media/10000/md_2563.pdf  
+- 参考　電気鉄道技術特集 - 富士電機  
+　https://www.fujielectric.co.jp/company/jihou_archives/pdf/72-02/FEJ-72-02-0000-1999.pdf  
+- 参考　民鉄における直流電気鉄道 き電変電所の技術動向  
+  https://www.jstage.jst.go.jp/article/ieiej/33/5/33_310/_pdf/-char/ja
+
+
+
+
+
