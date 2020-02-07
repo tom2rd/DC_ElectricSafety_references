@@ -201,6 +201,8 @@
 	
 	
 - NTT東日本　
+	- 電柱・管路等の利用条件等
+	https://www.ntt-east.co.jp/info-st/conguide/kanro/
 	- 電柱の利用申込み及び契約条件等について
 	https://www.ntt-east.co.jp/info-st/conguide/kanro/denchu.pdf
 	
