@@ -372,6 +372,13 @@ https://www.jeita.or.jp/cgi-bin/standard/list.cgi?cateid=4&subcateid=20
     https://www.fujielectric.co.jp/products/low_voltage_circuit_breaker/dc/dc_breaker_img.html
   - 富士電機　配線用遮断器・漏電遮断器　直流用ブレーカシリーズ一覧  
   https://www.fujielectric.co.jp/products/low_voltage_circuit_breaker/dc/
+ 
+ ### 日本電気技術者協会,電気技術解説講座  
+  - 漏電遮断器の構造、動作原理、性能、保護協調、保守点検について  
+  https://www.jeea.or.jp/course/contents/08105/
+  - 配線用遮断器の構造、性能、保護協調について  
+  https://www.jeea.or.jp/course/contents/08104/
+
 
 - 直流　避雷器  
   - M-SYSTEMS  
