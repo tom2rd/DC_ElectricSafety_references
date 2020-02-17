@@ -89,6 +89,8 @@
 - 日本工業規格[Wiki](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%94%A3%E6%A5%AD%E8%A6%8F%E6%A0%BC)
 　JIS規格のこと
  - JIS 電気安全[JISハンドブック 電気安全](https://webdesk.jsa.or.jp/books/W11M0100/index/?syohin_cd=318758)　　
+   - JIS C 60364-1:低圧電気設備　第１部：基本原則　
+   からシリーズ化されている。　詳細はJIS電気安全.md 参照
 
 - 日本電機工業会　JEMA　[HP](https://www.jema-net.or.jp/)
 	- 分散電源  
