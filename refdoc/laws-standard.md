@@ -130,6 +130,16 @@
 - 建設業法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E8%A8%AD%E6%A5%AD%E6%B3%95)
 - 建築士法[Wiki](https://ja.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E5%A3%AB%E6%B3%95)
 
+### 官庁営繕関係統一基準・技術基準
+- 統一基準　http://www.mlit.go.jp/gobuild/gobuild_tk2_000018.html
+- 技術基準　http://www.mlit.go.jp/gobuild/gobuild_tk2_000017.html
+官公庁の仕様統一規格や技術基準　工事関係  
+- 公共建築工事標準仕様書  
+  - 電気設備工事編  
+ 　 http://www.mlit.go.jp/common/001282585.pdf  
+  - 公共建築設備工事標準図  
+    http://www.mlit.go.jp/common/001282589.pdf
+
 ## 火災に関わる法律
 - 消防法[Wiki](https://ja.wikipedia.org/wiki/%E6%B6%88%E9%98%B2%E6%B3%95)
  - [消防用設備の配線](https://www.fdma.go.jp/laws/tutatsu/items/141021syou282_28.pdf)
