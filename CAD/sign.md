@@ -22,3 +22,5 @@ http://www.nousera.com/kigou.html
 http://kiia7.blog26.fc2.com/  
 http://www.okaden.tv/cad/index.html  
 
+- Reference Design
+https://ti-content-syndication.electronics-tutorials.ws/search?term=DC+converter
